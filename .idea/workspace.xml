@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a39f372-023a-45db-9ed1-be51e003d658" name="Changes" comment="HW 28.02" />
+    <list default="true" id="4a39f372-023a-45db-9ed1-be51e003d658" name="Changes" comment="HW 28.02">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_01RecursiveArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_02RecursiveDrawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_04RecursiveFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_05FindAllPathsInLabirint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_04Generating01Vectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_03Generating01Vectors.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,24 +25,70 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MKXVz19axLIk6fgiVHKDjBYNpg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="_04Generating01Vectors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01Fundamentals._02RecursionAndBacktracking._04Generating01Vectors" />
+}]]></component>
+  <component name="RunManager" selected="Application._02RecursiveDrawing">
+    <configuration name="_01RecursiveArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01Fundamentals._02RecursionAndBacktracking._01RecursiveArray" />
+      <module name="SU Java Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01Fundamentals._02RecursionAndBacktracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02RecursiveDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01Fundamentals._02RecursionAndBacktracking._02RecursiveDrawing" />
+      <module name="SU Java Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01Fundamentals._02RecursionAndBacktracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03Generating01Vectors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01Fundamentals._02RecursionAndBacktracking._03Generating01Vectors" />
+      <module name="SU Java Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01Fundamentals._02RecursionAndBacktracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_04RecursiveFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01Fundamentals._02RecursionAndBacktracking._04RecursiveFactorial" />
       <module name="SU Java Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -48,7 +102,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._04Generating01Vectors" />
+        <item itemvalue="Application._02RecursiveDrawing" />
+        <item itemvalue="Application._04RecursiveFactorial" />
+        <item itemvalue="Application._01RecursiveArray" />
+        <item itemvalue="Application._03Generating01Vectors" />
       </list>
     </recent_temporary>
   </component>
@@ -82,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677593044579</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HW 28.02">
+      <created>1677593793322</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677593793322</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,29 +169,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_04Generating01Vectors.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_04Generating01Vectors.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_04Generating01Vectors.java</url>
+          <url>file://$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_03Generating01Vectors.java</url>
           <line>32</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_04Generating01Vectors.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_01RecursiveArray.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_04Generating01Vectors.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/src/_01Fundamentals/_02RecursionAndBacktracking/_04RecursiveFactorial.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
